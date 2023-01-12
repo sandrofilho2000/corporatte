@@ -1,0 +1,28 @@
+﻿/* Optional theme */
+@import url('//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-theme.min.css');
+
+body
+{
+}
+
+.container {
+}
+
+.row .col {
+    border: 1px solid #ccc;
+    padding: 1em;
+    /*border-radius: 15px;*/
+}
+
+p {
+    margin-bottom: 5px;
+}
+
+ul.lista_blog {
+    margin-bottom: 2em !important;
+}
+ul li.item_lista_blog {
+    list-style-type: circle !important;
+    padding-left: 1em !important;
+    margin-left: 3em !important;
+}

@@ -1,0 +1,35 @@
+User-agent: *
+
+User-agent: Googlebot
+Disallow:
+
+User-agent: AdsBot-Google
+Disallow:
+
+User-agent: Googlebot-Image
+Disallow:
+
+Disallow: /phpmailer
+Disallow: /phpmailer/*
+Disallow: /backup_site
+Disallow: /backup_site/*
+Disallow: /crm
+Disallow: /crm/*
+Disallow: /css
+Disallow: /css/*
+Disallow: /helpdesk
+Disallow: /helpdesk/*
+Disallow: /projetos
+Disallow: /projetos/*
+Disallow: /phpmailer
+Disallow: /phpmailer/*
+Disallow: /js
+Disallow: /js/*
+Disallow: /img
+Disallow: /img/*
+Disallow: /fonts
+Disallow: /fonts/*
+Disallow: /error_log
+Disallow: /*.php
+
+Sitemap: https://www.corporatte.inf.br/sitemap.xml

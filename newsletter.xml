@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<artigos>
+  <artigo>
+    <icone>bullhorn</icone> 
+    <titulo>Weekly Free Learning Materials 1</titulo> 
+    <descricao>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius, laborum libero beatae obcaecati.</descricao> 
+    <url>http://www.inframicro.com.br</url>
+    <id>1</id>
+  </artigo>
+  <artigo>
+    <icone>book</icone> 
+    <titulo>Free PDF to Get Started 2</titulo> 
+    <descricao>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius, laborum libero beatae obcaecati.</descricao> 
+    <url></url>
+    <id>2</id>
+  </artigo>
+  <artigo>
+    <icone>timer</icone>
+    <titulo>10% Instant Discount 3</titulo>
+    <descricao>Ação ipsum dolor sit amet, consectetur adipisicing elit. Eius, laborum libero beatae obcaecati.</descricao>
+    <url></url>
+    <id>3</id>
+  </artigo>
+	<artigo>
+		<icone>timer</icone>
+		<titulo>10% Instant Discount 4</titulo>
+		<descricao>Ação ipsum dolor sit amet, consectetur adipisicing elit. Eius, laborum libero beatae obcaecati.</descricao>
+		<url></url>
+		<id>3</id>
+	</artigo>
+</artigos>
