@@ -1,5 +1,5 @@
 /**
- * main.js
+ * main.min.js
  * http://www.codrops.com
  *
  * Licensed under the MIT license.

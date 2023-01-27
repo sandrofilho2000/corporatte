@@ -9,7 +9,7 @@ window.console = window.console || (function(){
 jQuery(document).ready(function($) {
 	"use strict"
 	$("ul.colors .color1" ).click(function(){
-		$("#colors" ).attr("href", "css/colors/preset.css" );
+		$("#colors" ).attr("href", "css/colors/preset.min.css" );
 		return false;
 	});	
 
@@ -39,7 +39,7 @@ jQuery(document).ready(function($) {
     });
 
     $("ul.colors .color7").click(function () {
-        $("#colors").attr("href", "css/colors/custom.css");
+        $("#colors").attr("href", "css/colors/custom.min.css");
         return false;
     });
 
@@ -68,8 +68,8 @@ jQuery(document).ready(function($) {
 
 
 //Inject Necessary Styles and HTML
-jQuery('head').append('<link rel="stylesheet" id="colors" href="css/colors/preset.css" type="text/css" />');
-jQuery('head').append('<link rel="stylesheet" href="css/color-switcher.css" type="text/css" />'); 
+jQuery('head').append('<link rel="stylesheet" id="colors" href="css/colors/preset.min.css" type="text/css" />');
+jQuery('head').append('<link rel="stylesheet" href="css/color-switcher.min.css" type="text/css" />'); 
 
 jQuery('body').append('' + 
 	'<div id="color-style-switcher">' +
