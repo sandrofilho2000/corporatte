@@ -1,85 +1,79 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
-<url>
-  <loc>https://www.corporatte.inf.br/index.html</loc>
-  <lastmod>2020-10-14T19:21:18+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-  
-<url>
-  <loc>https://www.corporatte.inf.br/blog-funcionalidades-protheus.html</loc>
-  <lastmod>2020-10-13T19:09:33+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.corporatte.inf.br/blog-gestao-fiscal-ecd-ecf.html</loc>
-  <lastmod>2020-10-13T19:09:34+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.corporatte.inf.br/blog-otimizar-processos-erp.html</loc>
-  <lastmod>2020-10-13T19:09:35+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.corporatte.inf.br/blog-novo-cronograma-de-implantacao-do-esocial.html</loc>
-  <lastmod>2020-10-26T18:01:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.corporatte.inf.br/blog-software-erp-em-nuvem.html</loc>
-  <lastmod>2021-02-04T09:53:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-
-<url>
-  <loc>https://www.corporatte.inf.br/consultoria-rm.html</loc>
-  <lastmod>2021-02-04T09:53:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.corporatte.inf.br/consultoria-rm-labore.html</loc>
-  <lastmod>2021-02-04T09:53:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.corporatte.inf.br/consultoria-protheus.html</loc>
-  <lastmod>2021-02-04T09:53:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.corporatte.inf.br/implantacao-erp.html</loc>
-  <lastmod>2021-02-04T09:53:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-  
-<url>
-  <loc>https://www.corporatte.inf.br/escrituracao-contabil-digital.html</loc>
-  <lastmod>2021-02-04T09:53:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.corporatte.inf.br/escrituracao-contabil-fiscal.html</loc>
-  <lastmod>2021-02-04T09:53:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.corporatte.inf.br/escrituracao-digital-das-obrigacoes-fiscais.html</loc>
-  <lastmod>2021-02-04T09:53:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.corporatte.inf.br/escrituracao-fiscal-digital.html</loc>
-  <lastmod>2021-02-04T09:53:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-
-
+This XML file does not appear to have any style information associated with it. The document tree is
+shown below.
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <!--  created with Free Online Sitemap Generator www.xml-sitemaps.com  -->
+  <url>
+    <loc>https://www.corporatte.inf.br/</loc>
+    <lastmod>2023-02-03T02:45:47+00:00</lastmod>
+    <priority>1.00</priority>
+  </url>
+  <url>
+    <loc>https://www.corporatte.inf.br/index.html</loc>
+    <lastmod>2023-02-03T02:45:47+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.corporatte.inf.br/escrituracao-contabil-digital.html</loc>
+    <lastmod>2023-02-03T02:45:47+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.corporatte.inf.br/escrituracao-contabil-fiscal.html</loc>
+    <lastmod>2023-02-03T02:45:47+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.corporatte.inf.br/escrituracao-fiscal-digital.html</loc>
+    <lastmod>2023-02-03T02:45:47+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>
+      https://www.corporatte.inf.br/escrituracao-digital-das-obrigacoes-fiscais.html</loc>
+    <lastmod>2023-02-03T02:45:47+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.corporatte.inf.br/consultoria-protheus.html</loc>
+    <lastmod>2023-02-03T02:45:47+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.corporatte.inf.br/consultoria-rm.html</loc>
+    <lastmod>2023-02-03T02:45:47+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.corporatte.inf.br/consultoria-rm-labore.html</loc>
+    <lastmod>2023-02-03T02:45:47+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.corporatte.inf.br/implantacao-erp.html</loc>
+    <lastmod>2023-02-03T02:45:47+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.corporatte.inf.br/blog-funcionalidades-protheus.html</loc>
+    <lastmod>2023-02-03T02:45:47+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.corporatte.inf.br/blog-otimizar-processos-erp.html</loc>
+    <lastmod>2023-02-03T02:45:47+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.corporatte.inf.br/blog-gestao-fiscal-ecd-ecf.html</loc>
+    <lastmod>2023-02-03T02:45:47+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>
+      https://www.corporatte.inf.br/blog-novo-cronograma-de-implantacao-do-esocial.html</loc>
+    <lastmod>2023-02-03T02:45:47+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
 </urlset>

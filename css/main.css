@@ -377,6 +377,10 @@ button:focus {
   right: 15px;
 }
 
+.back-to-top span{
+  font-size: 0px;
+}
+
 .back-to-top i {
   display: block;
   width: 36px;
@@ -1367,7 +1371,8 @@ button:focus {
   width: 100%;
 }
 
-.featured-box .featured-content h4 {
+.featured-box .featured-content span {
+  display: block;
   font-size: 18px;
   font-weight: 500;
   margin-bottom: 10px;
@@ -1807,6 +1812,7 @@ button:focus {
 #blog .blog-item-text .date {
   font-size: 14px;
   margin-bottom: 10px;
+  color: #546e7a;
 }
 
 #blog .blog-item-text .date i {
@@ -1988,7 +1994,8 @@ textarea {
   color: #F97794;
 }
 
-.contact-info h5 {
+.contact-info span {
+  display: block;
   margin-top: 5px;
   font-size: 18px;
   font-weight: 500;
@@ -2091,7 +2098,7 @@ textarea {
   19. Subscribe Style
   ========================================================================== */
 #subscribe {
-  background: url(../img/bg/bg-subs.png);
+  background: url(../img/bg/bg-subs.webp);
   position: relative;
 }
 
