@@ -1995,7 +1995,17 @@ textarea {
 }
 
 .contact-info span {
+  margin-bottom: 0px;
+  font-size: 14px;
+}
+
+.contact-info > span {
+  box-sizing: border-box;
   display: block;
+  margin-bottom: .5rem;
+  line-height: 1.2;
+  font-family: 'Montserrat', sans-serif;
+  color: #263238 !important;
   margin-top: 5px;
   font-size: 18px;
   font-weight: 500;
